@@ -1,5 +1,3 @@
-
-
 # In[132]:
 import pyautogui as pd
 import time
@@ -83,11 +81,7 @@ pd.press('tab')
 pd.press('enter')
 time.sleep(3)
 pd.hotkey('alt','F4')
-
-
 # In[127]:
-
-
 import time
 time.sleep(5)
 print(pyautogui.position())
