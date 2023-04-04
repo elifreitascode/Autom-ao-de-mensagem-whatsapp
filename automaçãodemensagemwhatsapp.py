@@ -102,32 +102,28 @@ time.sleep(5)
 print(pyautogui.position())
 
 
-# In[ ]:
 
 
 
 
 
-# 
-
-# In[129]:
-
-
-import time
-time.sleep(5)
-pd.click(x=998, y=989)
-
-
-# 
-
-# In[ ]:
 
 
 
 
 
-# In[ ]:
 
 
-m
+
+
+
+
+
+
+
+
+
+
+
+
 
